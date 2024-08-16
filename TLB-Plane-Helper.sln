@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TLBPlaneHelper", "TLBPlaneHelper.csproj", "{54AADB1A-6AC3-496D-B1E1-DBBEBD785D00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54AADB1A-6AC3-496D-B1E1-DBBEBD785D00}.Debug|x64.ActiveCfg = Debug|x64
+		{54AADB1A-6AC3-496D-B1E1-DBBEBD785D00}.Debug|x64.Build.0 = Debug|x64
+		{54AADB1A-6AC3-496D-B1E1-DBBEBD785D00}.Release|x64.ActiveCfg = Release|x64
+		{54AADB1A-6AC3-496D-B1E1-DBBEBD785D00}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DAF2B46-FAE7-4FEB-A200-AB3719D2BC46}
+	EndGlobalSection
+EndGlobal
